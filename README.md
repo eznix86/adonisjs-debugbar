@@ -80,6 +80,25 @@ Add `@debugbar()` near the end of your Edge layout:
   </html>
 ```
 
+### 4. To view SQL queries
+
+Dont forget to add `debug: true` to your database configuration.
+
+Preferably, use:
+
+```js
+const dbConfig = defineConfig({
+  //...
+  connections: {
+    yourconnection: {
+      debug: env.get('NODE_ENV') === 'development',
+      // ...
+    },
+  },
+})
+```
+
+
 ## Configuration
 
 The debug bar is enabled by default when `NODE_ENV=development`.
