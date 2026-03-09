@@ -12,7 +12,7 @@ It adds a bottom panel in development to inspect:
 ## Install
 
 ```bash
-pnpm add @eznix/adonisjs-debugbar
+npm install @eznix/adonisjs-debugbar
 ```
 
 ## Setup
