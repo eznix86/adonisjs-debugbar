@@ -1,6 +1,6 @@
 {
   "name": "@eznix/adonisjs-debugbar",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Debug bar for AdonisJS",
   "keywords": [
     "adonisjs",
