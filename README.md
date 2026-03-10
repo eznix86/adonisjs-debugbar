@@ -2,7 +2,11 @@
 
 Debug bar for AdonisJS.
 
-It adds a bottom panel in development to inspect:
+![Request View](./art/request.png)
+![Timeline View](./art/timeline.png)
+![Queries View](./art/queries.png)
+
+A bottom panel in development to inspect:
 
 - request details
 - SQL queries, bindings, duration, duplicates, and source
