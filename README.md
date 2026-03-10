@@ -2,9 +2,18 @@
 
 Debug bar for AdonisJS.
 
+### Request View
+
 ![Request View](./art/request.png)
+
+### Timeline View
+
 ![Timeline View](./art/timeline.png)
+
+### Queries View
+
 ![Queries View](./art/queries.png)
+
 
 A bottom panel in development to inspect:
 
