@@ -1,6 +1,6 @@
 # Adonis JS Debug Bar
 
-Debug bar for AdonisJS.
+Debug bar for AdonisJS for adonis v6 and v7
 
 ### Request View
 
